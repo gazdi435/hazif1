@@ -1,0 +1,16 @@
+fieldset {
+    width: 35%;
+    text-align: center;
+    background-color: bisque;
+    border: black 4px solid;
+    border-radius: 10px;
+    margin: auto;
+}
+
+fieldset input {
+    margin: 10px;
+}
+
+fieldset :last-child{
+    margin-bottom: 1cm;
+}
